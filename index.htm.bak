@@ -1,84 +1,84 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<!DOCTYPE html PUBLIC "-//IETF//DTD HTML//EN">
 <html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+    <title>Instituto de E. S. Inventor Cosme Garcia</title>
+  </head>
+  <body vlink="#808080" topmargin="0" text="#0080C0" link="#FF0080" leftmargin="0"
 
-<head>
-<meta http-equiv="Content-Type"
-content="text/html; charset=iso-8859-1">
-<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
-<title>Instituto de E. S. Inventor Cosme Garcia</title>
-</head>
+    bgcolor="#FFFFFF" background="bg-slate.gif">
+    <table width="100%" border="0">
+      <tbody>
+        <tr>
+          <td width="100%">
+            <table width="100%" border="0">
+              <tbody>
+                <tr>
+                  <td align="center" width="16%"><a href="cast.htm"><img
 
-<body background="bg-slate.gif" bgcolor="#FFFFFF" text="#0080C0"
-link="#FF0080" vlink="#808080" topmargin="0" leftmargin="0">
+                        src="spain.gif" alt="Bandera Española" height="47" width="72"
 
-<table border="0" width="100%">
-    <tr>
-        <td width="100%"><table border="0" width="100%">
-            <tr>
-                <td align="center" width="16%"><a href="cast.htm"><img
-                src="spain.gif" alt="Bandera Española"
-                border="0" width="72" height="47"></a></td>
-                <td align="center" width="16%"><img src="gb.gif"
-                alt="Bandera Inglesa" width="72" height="47"></td>
-                <td align="center" width="16%"><img
-                src="france.gif" alt="Bandera Francesa"
-                width="71" height="47"></td>
-                <td align="center" width="16%"><img
-                src="germany.gif" alt="Bandera Alemana"
-                width="73" height="47"></td>
-                <td align="center" width="16%"><img
-                src="italy.gif" alt="Bandera Italiana" width="72"
-                height="47"></td>
-                <td align="center" width="16%"><img
-                src="portug.gif" alt="Bandera Portuguesa"
-                width="71" height="47"></td>
-            </tr>
-            <tr>
-                <td align="center" width="16%"><font
-                color="#0080C0"><strong>[</strong></font><a
-                href="cast.htm"><strong>Español</strong></a><font
-                color="#0080C0"><strong>]</strong></font></td>
-                <td align="center" width="16%"><font
-                color="#0080C0"><strong>[</strong></font><font
-                color="#0000A0"><strong>English</strong></font><font
-                color="#0080C0"><strong>]</strong></font></td>
-                <td align="center" width="16%"><font
-                color="#0080C0"><strong>[</strong></font><font
-                color="#0000A0"><strong>Français</strong></font><font
-                color="#0080C0"><strong>]</strong></font></td>
-                <td align="center" width="16%"><font
-                color="#0080C0"><strong>[</strong></font><font
-                color="#0000A0"><strong>Deutsch</strong></font><font
-                color="#0080C0"><strong>]</strong></font></td>
-                <td align="center" width="16%"><font
-                color="#0080C0"><strong>[</strong></font><font
-                color="#0000A0"><strong>Italiano</strong></font><font
-                color="#0080C0"><strong>]</strong></font></td>
-                <td align="center" width="16%"><font
-                color="#0080C0"><strong>[</strong></font><font
-                color="#0000A0"><strong>Português</strong></font><font
-                color="#0080C0"><strong>]</strong></font></td>
-            </tr>
-        </table>
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="100%"><font color="#0080FF"
-        face="Comic Sans MS"><em>República Argentina, 68 - 26006
-        Logroño, La Rioja, Spain<br>
-        Tlf: +34 41 245582 - Fax: +34 41 208434 - E-mail: </em></font><a
-        href="mailto:iescosme@eniac.es"><font color="#0080FF"
-        face="Comic Sans MS"><em>iescosme@eniac.es</em></font></a><p><img
-        src="ieslogo.gif" alt="I.E.S. Inventor Cosme García"
-        width="543" height="282"></p>
-        </td>
-    </tr>
-</table>
+                        border="0"></a></td>
+                  <td align="center" width="16%"><img src="gb.gif" alt="Bandera Inglesa"
 
-<p align="center"><font color="#800080" size="4">© </font><a
-href="http://www.arrakis.es/~ljmodino"><font color="#800080"
-size="4">Luis Javier Modino Martínez '97</font></a><font
-color="#800080" size="4"> (20/3/97) </font><a
-href="mailto:ljmodino@arrakis.es"><font color="#800080" size="4"><em><strong>ljmodino@arrakis.es</strong></em></font></a></p>
-</body>
+                      height="47" width="72"></td>
+                  <td align="center" width="16%"><img src="france.gif" alt="Bandera Francesa"
+
+                      height="47" width="71"></td>
+                  <td align="center" width="16%"><img src="germany.gif" alt="Bandera Alemana"
+
+                      height="47" width="73"></td>
+                  <td align="center" width="16%"><img src="italy.gif" alt="Bandera Italiana"
+
+                      height="47" width="72"></td>
+                  <td align="center" width="16%"><img src="portug.gif" alt="Bandera Portuguesa"
+
+                      height="47" width="71"></td>
+                </tr>
+                <tr>
+                  <td align="center" width="16%"><font color="#0080C0"><strong>[</strong></font><a
+
+                      href="cast.htm"><strong>Español</strong></a><font color="#0080C0"><strong>]</strong></font></td>
+                  <td align="center" width="16%"><font color="#0080C0"><strong>[</strong></font><font
+
+                      color="#0000A0"><strong>English</strong></font><font color="#0080C0"><strong>]</strong></font></td>
+                  <td align="center" width="16%"><font color="#0080C0"><strong>[</strong></font><font
+
+                      color="#0000A0"><strong>Français</strong></font><font color="#0080C0"><strong>]</strong></font></td>
+                  <td align="center" width="16%"><font color="#0080C0"><strong>[</strong></font><font
+
+                      color="#0000A0"><strong>Deutsch</strong></font><font color="#0080C0"><strong>]</strong></font></td>
+                  <td align="center" width="16%"><font color="#0080C0"><strong>[</strong></font><font
+
+                      color="#0000A0"><strong>Italiano</strong></font><font color="#0080C0"><strong>]</strong></font></td>
+                  <td align="center" width="16%"><font color="#0080C0"><strong>[</strong></font><font
+
+                      color="#0000A0"><strong>Português</strong></font><font color="#0080C0"><strong>]</strong></font></td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" width="100%"><font face="Comic Sans MS" color="#0080FF"><em>República
+                Argentina, 68 - 26006 Logroño, La Rioja, Spain<br>
+                Tlf: +34 41 245582 - Fax: +34 41 208434 - E-mail: </em></font><a
+
+              href="mailto:iescosme@eniac.es"><font face="Comic Sans MS" color="#0080FF"><em>iescosme@eniac.es</em></font></a>
+            <p><img src="ieslogo.gif" alt="I.E.S. Inventor Cosme García" height="282"
+
+                width="543"></p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p align="center"><font size="4" color="#800080">© </font><a href="http://www.arrakis.es/%7Eljmodino"><font
+
+          size="4" color="#800080">Luis Javier Modino Martínez '97</font></a><font
+
+        size="4" color="#800080"> (20/3/97) </font><a href="mailto:ljmodino@arrakis.es"><font
+
+          size="4" color="#800080"><em><strong>ljmodino@arrakis.es</strong></em></font></a></p>
+  </body>
 </html>
